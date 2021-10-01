@@ -9,7 +9,7 @@
   "attribute.dynamiczone": "Zona dinámica",
   "attribute.dynamiczone.description": "Elija componentes dinámicamente al editar contenido",
   "attribute.email": "Correo electrónico",
-  "attribute.email.description": "Campo de correo electrónico con formato de validaciones",
+  "attribute.email.description": "Campo de correo electrónico con validaciones de formato",
   "attribute.enumeration": "Enumeración",
   "attribute.enumeration.description": "Lista de valores, luego elija uno",
   "attribute.json": "JSON",
@@ -65,7 +65,7 @@
   "form.attribute.component.option.single": "Componente único",
   "form.attribute.component.option.single.description": "Lo mejor para agrupar campos como dirección completa, información principal...",
   "form.attribute.item.customColumnName": "Nombres de columna personalizados",
-  "form.attribute.item.customColumnName.description": "Esto es útil para renombrar los nombres de las columnas de la base de datos en un formato más completo para las respuestas de la API.",
+  "form.attribute.item.customColumnName.description": "Esto es útil para renombrar las columnas de la base de datos en un formato más comprnsible para las respuestas de la API.",
   "form.attribute.item.date.type.date": "fecha",
   "form.attribute.item.date.type.datetime": "fecha y hora",
   "form.attribute.item.date.type.time": "hora",
@@ -182,7 +182,7 @@
   "relation.manyWay": "tiene muchas",
   "relation.oneToMany": "pertenece a muchos",
   "relation.oneToOne": "tiene y pertenece a una",
-  "relation.oneWay": "tiene uno",
+  "relation.oneWay": "tiene un",
   "table.attributes.title.plural": "{number} campos",
   "table.attributes.title.singular": "{number} campo"
 }
